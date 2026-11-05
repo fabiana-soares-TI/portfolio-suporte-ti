@@ -35,8 +35,11 @@
   * Domínio de manipulação de buffer do terminal e tratamento de travamentos de linhas de execução utilizando interrupções por hardware (`Ctrl + C`).
 
 ### 📊 PROJETO 5: Alinhamento de Processos de Negócio (ITIL v4 & Jira)
-
-
+* **Tecnologia Utilizada:** Jira Service Management e Framework ITIL v4.
+* **Escopo Prático:**
+  * Gerenciamento do ciclo de vida de tickets em fila de atendimento técnico Home Office de alta performance.
+  * Classificação analítica de demandas com base no impacto de negócio: Triagem precisa entre **Incidentes** (interrupções não planejadas de serviço) e **Requisições de Serviço** (demandas de concessão/rotina padrão).
+  * Controle operacional focado em criticidade de chamados para o cumprimento rigoroso de **SLAs (Acordo de Nível de Serviço)** acordados com a empresa.
 
 ---
 
@@ -94,9 +97,3 @@
 <p align="center">
   <img src="imagens/print-excel.png" alt="Dashboard Excel" width="80%">
 </p>
-
-* **Tecnologia Utilizada:** Jira Service Management e Framework ITIL v4.
-* **Escopo Prático:**
-  * Gerenciamento do ciclo de vida de tickets em fila de atendimento técnico Home Office de alta performance.
-  * Classificação analítica de demandas com base no impacto de negócio: Triagem precisa entre **Incidentes** (interrupções não planejadas de serviço) e **Requisições de Serviço** (demandas de concessão/rotina padrão).
-  * Controle operacional focado em criticidade de chamados para o cumprimento rigoroso de **SLAs (Acordo de Nível de Serviço)** acordados com a empresa.
