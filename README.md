@@ -1,9 +1,7 @@
 # 🚀 PORTFÓLIO DE LABORATÓRIOS PRÁTICOS: INFRAESTRUTURA E SERVICE DESK
 
-**Profissional:** Fabiana Souza  
+**Profissional:** Fabiana Soares  
 **Objetivo:** Demonstração de competências técnicas aplicadas em suporte N1/N2, Redes, Virtualização e Administração de Identidades.
-
----
 
 ### 📂 PROJETO 1: Provisionamento de Ambiente Virtualizado (Hypervisor)
 * **Tecnologia Utilizada:** Oracle VirtualBox.
@@ -12,13 +10,13 @@
   * Instalação e calibração de drivers avançados (**VirtualBox Guest Additions**) para habilitar o controle de Área de Transferência Compartilhada Bidirecional.
   * Configuração e segmentação de placas de rede virtuais (Modo NAT para isolamento seguro e Rede Interna para simulação de infraestrutura corporativa isolada).
 
-### 🏛️ PROJETO 2: Implementação e Governança de Active Directory (AD DS)
+### 🏛️ PROJETO 2: Implementation e Governança de Active Directory (AD DS)
 * **Tecnologia Utilizada:** Windows Server 2022, Active Directory Users and Computers (ADUC).
 * **Escopo Prático:**
   * Instalação da Role de **Active Directory Domain Services (AD DS)** via Server Manager.
   * Promoção do servidor a **Controlador de Domínio (Domain Controller)** configurando uma nova floresta de rede sob o domínio raiz `empresa.local`.
   * Estruturação de Governança de Dados através da criação de **Unidades Organizacionais (OUs)** para segmentação de departamentos (Criação da OU `TI`).
-  * Provisionamento de contas de usuários seguindo padrões rigorosos de mercado (Logon Name padronizado em letras minúsculas: `fabiana.souza`).
+  * Provisionamento de contas de usuários seguindo padrões rigorosos de mercado (Logon Name padronizado em letras minúsculas: `fabiana.soares`).
 
 ### 🔒 PROJETO 3: Rotinas Operacionais de Service Desk e Segurança (LGPD)
 * **Tecnologia Utilizada:** Painel ADUC, Diretrizes de Governança e Proteção de Dados.
@@ -59,7 +57,6 @@
   <img src="imagens/print-ad.png" alt="Active Directory" width="80%">
 </p>
 
----
 
 ### 🛠️ 2. Gerenciamento de Pacotes e Atualização de Sistemas (Linux Mint)
 **Data de Execução:** 05/11/2026  
@@ -72,7 +69,6 @@
   <img src="imagens/print-linux1.png" alt="Terminal Linux" width="80%">
 </p>
 
----
 
 ### 🛠️ 3. Manipulação de Arquivos, Permissões e Redes (Linux Mint)
 **Data de Execução:** 05/11/2026  
@@ -85,7 +81,6 @@
   <img src="imagens/print-linux2.png" alt="Redes Linux" width="80%">
 </p>
 
----
 
 ### 📊 4. Análise de Dados e Construção de Dashboards (Microsoft Excel)
 **Data de Execução:** 05/11/2026  
